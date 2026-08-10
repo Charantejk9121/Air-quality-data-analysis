@@ -7,7 +7,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-red?style=flat-square&logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-**[Try the live dashboard →](#)** *(add your Streamlit Cloud link here after deploying)*
+**[Try the live dashboard →](#)** https://india-aqi-insights.streamlit.app/
 
 ---
 
